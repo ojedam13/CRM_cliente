@@ -94,6 +94,6 @@
                     divMensaje.remove();
                 }, 3000);
             }
-        }
+    }
 
 })();

@@ -5,7 +5,7 @@
     document.addEventListener('DOMContentLoaded', () => {
         
         conectarDB();
-
+        
         formulario.addEventListener('submit', validarCliente);
     });
 
